@@ -157,7 +157,8 @@ const Index = () => {
                   <p className="text-sm opacity-90">{advantage.description}</p>
                 </div>
               ))}
-            </div>
+              </div>
+            </CardContent>
           </Card>
 
           {/* Contact CTA */}
@@ -190,6 +191,7 @@ const Index = () => {
               </div>
             </CardContent>
           </Card>
+          
         </div>
       </div>
     </div>
